@@ -1,0 +1,7 @@
+# Python Standard Library only
+# All 180 practical programming programs are implemented using pure Python built upon fundamental logic.
+# No third-party packages are required.
+# If you wish to run automated tests or code formatters, you may optionally install:
+# pytest>=7.0.0
+# black>=23.0.0
+
